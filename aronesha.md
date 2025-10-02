@@ -1,6 +1,6 @@
 # ✨ A Proud Moment for 𝙐𝙄𝙏𝙎 𝘾𝙮𝙗𝙚𝙧 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙒𝙞𝙣𝙜 ! ✨  
 
-Our 3 teams participated on-site at *UAP CYBER SIEGE 2025*:  
+Our 3 teams participated on-site at* **UAP CYBER SIEGE 2025** organized by the Cyber Security Club, UAP*:  
 
 🔹 **Cyber Security Enthusiast** – *9th Place*  
 🔹 **Shadowstorm Syndicate** – *11th Place*  
